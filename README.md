@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on making telehealth platform AI-smart and easy.
 - 🌱 I’m currently learning LLMOps.
 - 👯 I’m looking to collaborate on exciting projects that address global problems.
-- 💬 Ask me about GenAI and LLMs.
+- 💬 Ask me about GenAI, RAGs and LLMs.
 - ⚡ Fun fact: Humans have unique tongue and ear prints.
 - :gift_heart: Please support me [here](https://www.buymeacoffee.com/ey0XpgZ) :coffee:
 
