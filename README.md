@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Sushil Bharati.
 
 - 🔭 I’m currently working on making telehealth platform AI-smart and easy.
-- 🌱 I’m currently learning LLMOps.
+- 🌱 I’m currently learning Agentic Engineering and Voice Agents.
 - 👯 I’m looking to collaborate on exciting projects that address global problems.
 - 💬 Ask me about GenAI, RAGs and LLMs.
 - ⚡ Fun fact: Humans have unique tongue and ear prints.
